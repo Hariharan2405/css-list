@@ -1,0 +1,24 @@
+*{
+	background-color:gray;
+	font-size:20px;
+}
+.a1{
+	list-style-type:circle;
+	list-style-position:outside;
+	color:pink;
+	
+	list-style-image:url("..//image/smiley.png")
+}
+.a2{
+	list-style-type:square;
+	list-style-position:inside;
+	color:yellow;
+	
+	list-style-image:url("..//image/smiley.png")
+}
+.a3{
+	list-style-type:upper-roman;
+}
+.a4{
+	list-style-type:lower-alpha;
+}
